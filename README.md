@@ -9,5 +9,5 @@ Features:
 4. Clear Input - Clears the input field.
 5. Clear Everything - Clears everything (Display Messages, Error Messages, Input fields and so on).
 
--- If not given any character amount, the system automatically generates passwords of 16 characters and shows a success message. 
--- If it is given an invalid amount (anything other than numbers), the system displays an error message. 
+- If not given any character amount, the system automatically generates passwords of 16 characters and shows a success message. 
+- If it is given an invalid amount (anything other than numbers), the system displays an error message. 
